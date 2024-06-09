@@ -36,7 +36,7 @@ Hello, I am `Erthen` and I am a full-stack software developer with 10 years of e
 </p>
 
 ![Erthen's Github Stats](https://github-readme-stats.vercel.app/api?username=erthen&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erthen&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erthen&hide=TeX&layout=compact) -->
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=erthen alt=erthen/> </p>
 
